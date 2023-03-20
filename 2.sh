@@ -1,2 +1,3 @@
 #!/bin/bash
-python helloworld.py
+chmod +x helloworld.py
+./lloworld.py
